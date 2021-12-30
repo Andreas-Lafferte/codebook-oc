@@ -1,1 +1,2 @@
 # codebook-oc
+Repositorio que contiene la generación del libro de códigos de la base de datos del Observatorio de Conflictos (2009-2020) del Centro de Estudios de Conflicto y Cohesión Social (COES). [link](https://rpubs.com/Andreas-Lafferte/codebook-oc)
